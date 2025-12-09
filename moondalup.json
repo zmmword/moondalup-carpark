@@ -1,0 +1,28 @@
+[
+ {
+  "name": "Sunnyvale Carpark",
+  "temp": 6.7,
+  "bays": {
+   "0": {
+    "kind": "Car",
+    "rego": "1LPP-821"
+   },
+   "1": {
+    "kind": "Ute",
+    "rego": "1HSV-427"
+   },
+   "2": {
+    "kind": "Ute",
+    "rego": "1MZL-288"
+   },
+   "3": {
+    "kind": "Car",
+    "rego": "1PQM-442"
+   },
+   "4": {
+    "kind": "Ute",
+    "rego": "1HCW-747"
+   }
+  }
+ }
+]
